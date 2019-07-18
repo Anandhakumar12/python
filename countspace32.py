@@ -1,2 +1,3 @@
 anand=str(input())
-print(anand.count(' '))
+b=(anand.count(' '))
+print(b+1)
